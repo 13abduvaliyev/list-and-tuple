@@ -1,0 +1,1 @@
+15 = raqam #o'zgaruvchi raqam bolmasligi kerak
